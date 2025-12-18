@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "league": "Azərbaycan Premyer Liqası",
+    "country": "az",
+    "home": "Qarabağ",
+    "away": "Sabah",
+    "time": "19:30",
+    "prob": "78%",
+    "odds": "1.45",
+    "goals": "-3.5"
+  },
+  {
+    "id": 2,
+    "league": "Azərbaycan Premyer Liqası",
+    "country": "az",
+    "home": "Zirə",
+    "away": "Neftçi",
+    "time": "21:00",
+    "prob": "72%",
+    "odds": "1.58",
+    "goals": "-3.5"
+  },
+  {
+    "id": 3,
+    "league": "İngiltərə Premyer Liqası",
+    "country": "gb",
+    "home": "Liverpool",
+    "away": "Arsenal",
+    "time": "23:00",
+    "prob": "64%",
+    "odds": "1.75",
+    "goals": "+2.5"
+  },
+  {
+    "id": 4,
+    "league": "İspaniya La Liqa",
+    "country": "es",
+    "home": "Barcelona",
+    "away": "Real Madrid",
+    "time": "22:45",
+    "prob": "55%",
+    "odds": "2.10",
+    "goals": "+2.5"
+  },
+  {
+    "id": 5,
+    "league": "Almaniya Bundesliqa",
+    "country": "de",
+    "home": "Bayern Münhen",
+    "away": "Borussia Dortmund",
+    "time": "22:30",
+    "prob": "69%",
+    "odds": "1.62",
+    "goals": "+3.5"
+  },
+  {
+    "id": 6,
+    "league": "İtaliya A Seriyası",
+    "country": "it",
+    "home": "Juventus",
+    "away": "Inter",
+    "time": "21:45",
+    "prob": "60%",
+    "odds": "1.85",
+    "goals": "-2.5"
+  },
+  {
+    "id": 7,
+    "league": "Fransa Liqa 1",
+    "country": "fr",
+    "home": "PSG",
+    "away": "Lyon",
+    "time": "22:00",
+    "prob": "73%",
+    "odds": "1.55",
+    "goals": "+3.5"
+  },
+  {
+    "id": 8,
+    "league": "Türkiyə Super Liqa",
+    "country": "tr",
+    "home": "Galatasaray",
+    "away": "Fenerbahçe",
+    "time": "20:00",
+    "prob": "58%",
+    "odds": "2.05",
+    "goals": "+2.5"
+  }
+]

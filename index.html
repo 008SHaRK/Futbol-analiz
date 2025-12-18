@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="az">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Betxana</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="layout">
+
+  <aside class="sidebar">
+    <img src="logo.png" alt="logo">
+
+    <div class="menu-title">Göstəricilər</div>
+
+    <ul class="menu-list">
+      <li class="active">Futbol Analizləri</li>
+
+      <li class="telegram-link">
+        <a href="https://t.me/Betxana">Telegrama keçin 😊</a>
+      </li>
+    </ul>
+
+    <p class="warning-text">
+      Bu saytda təqdim olunan məlumatlar yalnız analitik və məlumatlandırıcı məqsədlidir. 
+      <strong>mərclə bağlı xidmət</strong> hesab edilmir və 
+      <strong>mərc fəaliyyəti təşkil etmir.</strong>
+    </p>
+  </aside>
+
+  <!-- MAIN -->
+  <main class="content">
+
+    <h2>Bugünkü futbol qarşılaşmaları üçün statistik və analitik baxış</h2>
+
+    <div class="toolbar">
+      <input id="searchInput" type="text" placeholder="Takım, lig veya ülke">
+    </div>
+
+    <div class="match-list" id="matchContainer"></div>
+
+  </main>
+
+</div>
+<!-- POPUP -->
+<div class="popup-bg" id="popup">
+  <div class="popup-box">
+    <h2>Betxana – məlumatlandırıcı platformadır</h2>
+    <p>
+      Bu sayt mərc xidməti göstərmir və yalnız məlumat xarakteri daşıyır.
+      Buradakı statistika, analiz və proqnozlar informativ məqsədlər üçündür.
+    </p>
+
+    <button id="closePopup">Bağla</button>
+  </div>
+</div>
+
+<footer class="site-footer">
+  <div class="footer-container">
+
+    <div class="footer-brand">
+      <h3>Betxana</h3>
+      <p>
+        Futbol qarşılaşmaları üzrə statistik və analitik baxış təqdim edən
+        informasiya platforması.
+      </p>
+    </div>
+
+    <div class="footer-info">
+      <h4>Qeyd</h4>
+      <p>
+        Bu sayt mərc xidməti göstərmir və yalnız məlumat xarakteri daşıyır.
+      </p>
+    </div>
+
+  </div>
+
+  <div class="footer-bottom">
+    © 2025 <span>Betxana</span> · Bütün hüquqlar qorunur
+  </div>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
