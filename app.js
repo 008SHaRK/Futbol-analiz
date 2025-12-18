@@ -3,7 +3,7 @@ let allMatches = [];
 
 async function loadMatches(){
   try{
-    const res = await fetch("http://localhost:4000/api/matches");
+   const res = await fetch("matches.json");
     allMatches = await res.json();
     renderMatches(allMatches);
   }catch(err){
